@@ -22,6 +22,7 @@ Please add more alternatives to the list by creating a pull request or issue ðŸ™
         <a href="https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects" target="_blank">https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects</a>
         <br />
         <a href="https://plane.so/" target="_blank">https://plane.so/</a>
+        <a href="https://vikunja.io/" target="_blank">https://vikunja.io/</a>
       </td>
     </tr>
     <tr>
