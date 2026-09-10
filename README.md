@@ -265,6 +265,31 @@ Please add more alternatives to the list by creating a pull request or issue ðŸ™
   </tbody>
 </table>
 
+## Commerce and Retail Tools
+
+<table>
+  <thead>
+    <tr>
+      <th>Software</th>
+      <th>Open source alternative</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Square POS / Clover</td>
+      <td>1. Open Source Point of Sale <br/> 2. uniCenta oPOS <br/> 3. Posnic POS</td>
+      <td>
+        <a href="https://opensourcepos.org/" target="_blank">https://opensourcepos.org/</a>
+        <br />
+        <a href="https://unicenta.com/" target="_blank">https://unicenta.com/</a>
+        <br />
+        <a href="https://www.posnic.com/" target="_blank">https://www.posnic.com/</a> (<a href="https://github.com/Posnic/POS" target="_blank">source</a>)
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## Storage, Backup, and File Management Tools
 
 <table>
