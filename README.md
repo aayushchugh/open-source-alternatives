@@ -284,7 +284,7 @@ Please add more alternatives to the list by creating a pull request or issue ðŸ™
         <br />
         <a href="https://unicenta.com/" target="_blank">https://unicenta.com/</a>
         <br />
-        <a href="https://posnic.io/" target="_blank">https://posnic.io/</a> (<a href="https://github.com/Posnic/POS" target="_blank">source</a>)
+        <a href="https://www.posnic.com/" target="_blank">https://www.posnic.com/</a> (<a href="https://github.com/Posnic/POS" target="_blank">source</a>)
       </td>
     </tr>
   </tbody>
