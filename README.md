@@ -111,20 +111,24 @@ Please add more alternatives to the list by creating a pull request or issue ðŸ™
   <tbody>
     <tr>
       <td>Vercel</td>
-      <td>1. Coolify <br/> 2. Netlify</td>
+      <td>1. Coolify <br/> 2. Netlify <br/> 3. Peon</td>
       <td>
         <a href="https://coollabs.io/coolify" target="_blank">https://coollabs.io/coolify</a>
         <br />
         <a href="https://www.netlify.com/" target="_blank">https://www.netlify.com/</a>
+        <br />
+        <a href="https://peon.sh/" target="_blank">https://peon.sh/</a>
       </td>
     </tr>
     <tr>
       <td>Heroku</td>
-      <td>1. Dokku <br/> 2. CapRover</td>
+      <td>1. Dokku <br/> 2. CapRover <br/> 3. Peon</td>
       <td>
         <a href="https://dokku.com/" target="_blank">https://dokku.com/</a>
         <br />
         <a href="https://caprover.com/" target="_blank">https://caprover.com/</a>
+        <br />
+        <a href="https://peon.sh/" target="_blank">https://peon.sh/</a>
       </td>
     </tr>
     <tr>
