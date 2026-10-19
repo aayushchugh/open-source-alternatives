@@ -262,6 +262,11 @@ Please add more alternatives to the list by creating a pull request or issue ðŸ™
         <a href="https://kdenlive.org/" target="_blank">https://kdenlive.org/</a>
       </td>
     </tr>
+    <tr>
+      <td>Marked (local Markdown preview)</td>
+      <td>Glim (macOS)</td>
+      <td><a href="https://github.com/NeoPanic/Glim" target="_blank">https://github.com/NeoPanic/Glim</a></td>
+    </tr>
   </tbody>
 </table>
 
