@@ -262,6 +262,13 @@ Please add more alternatives to the list by creating a pull request or issue ðŸ™
         <a href="https://kdenlive.org/" target="_blank">https://kdenlive.org/</a>
       </td>
     </tr>
+    <tr>
+      <td>Stay / Moom (macOS multi-monitor window layout manager)</td>
+      <td>LayoutKeeper</td>
+      <td>
+        <a href="https://github.com/tumingke0/LayoutKeeper" target="_blank">https://github.com/tumingke0/LayoutKeeper</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
