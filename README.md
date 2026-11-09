@@ -185,6 +185,14 @@ Please add more alternatives to the list by creating a pull request or issue �
         <a href="https://hoppscotch.io/" target="_blank">https://hoppscotch.io/</a>
       </td>
     </tr>
+    <tr>
+      <td>Packet — macOS Packet Analyzer</td>
+      <td>Tracexy — open-source native macOS Wireshark alternative</td>
+      <td>
+        <a href="https://rockxy.io/tracexy" target="_blank">https://rockxy.io/tracexy</a>
+        (<a href="https://github.com/RockxyApp/Tracexy" target="_blank">source</a>)
+      </td>
+    </tr>
   </tbody>
 </table>
 
