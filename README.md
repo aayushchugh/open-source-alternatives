@@ -185,6 +185,14 @@ Please add more alternatives to the list by creating a pull request or issue ðŸ™
         <a href="https://hoppscotch.io/" target="_blank">https://hoppscotch.io/</a>
       </td>
     </tr>
+    <tr>
+      <td>Proxyman / Charles Proxy</td>
+      <td>Rockxy â€” open-source native macOS HTTP/HTTPS proxy with AI API and Web3 RPC inspection</td>
+      <td>
+        <a href="https://rockxy.io/" target="_blank">https://rockxy.io/</a>
+        (<a href="https://github.com/RockxyApp/Rockxy" target="_blank">source</a>)
+      </td>
+    </tr>
   </tbody>
 </table>
 
