@@ -185,6 +185,11 @@ Please add more alternatives to the list by creating a pull request or issue ðŸ™
         <a href="https://hoppscotch.io/" target="_blank">https://hoppscotch.io/</a>
       </td>
     </tr>
+    <tr>
+      <td>UptimeRobot</td>
+      <td>SiteWatcher</td>
+      <td><a href="https://github.com/NikKurkov/sitewatcher" target="_blank">https://github.com/NikKurkov/sitewatcher</a></td>
+    </tr>
   </tbody>
 </table>
 
